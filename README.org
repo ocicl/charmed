@@ -1,0 +1,9 @@
+* charmed
+
+Pure-Lisp ANSI terminal control library.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/parenworks/charmed.git    |
+| commit  | 0000000                                          |
+| systems | charmed                                          |
+|---------+--------------------------------------------------|
