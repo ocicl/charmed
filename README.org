@@ -4,6 +4,6 @@ Pure-Lisp ANSI terminal control library.
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/parenworks/charmed.git    |
-| commit  | 0000000                                          |
+| commit  | 966f7d0                                          |
 | systems | charmed                                          |
 |---------+--------------------------------------------------|
