@@ -7,4 +7,4 @@ Pure-Lisp ANSI terminal control library.
 | commit  | dc0dee2                                          |
 | systems | charmed                                          |
 |---------+--------------------------------------------------|
- 
+  
